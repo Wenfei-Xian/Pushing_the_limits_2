@@ -1,4 +1,4 @@
-Racon (liftover)  
+Racon (liftover branch)  
 ```
 git clone https://github.com/isovic/racon.git
 cd racon
