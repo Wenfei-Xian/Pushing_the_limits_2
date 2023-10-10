@@ -1,3 +1,4 @@
+#illumina + HiFi   
 Racon (liftover branch)  
 ```
 git clone https://github.com/isovic/racon.git
