@@ -9,3 +9,4 @@ I will evaluate from three perspectives: 1) Accuracy, 2) Contiguity, and 3) Comp
 The genome was assembled using Hifiasm.   
 
 ## Accuracy   
+Initially, we combined Illumina data with HiFi data and employed two state-of-the-art polishing tools (NextPolish2 and Racon+Merfin) to achieve the current best QV value.
