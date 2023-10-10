@@ -23,6 +23,7 @@ meryl histogram reads.meryl > reads.hist
 meryl greater-than 1 reads.meryl output reads.gt1.meryl
 
 bash automated-polishing.sh ${thread} 1 Col-0.bp.p_ctg.gfa.fa Col-0.q20.fastq.gz reads.gt1.meryl racon.meryl
+#-peak 106.7 need to be modified
 ```
 [Nextpolish2](https://github.com/Nextomics/NextPolish2)
 ```
