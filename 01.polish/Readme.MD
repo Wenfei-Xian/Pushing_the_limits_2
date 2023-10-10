@@ -31,7 +31,7 @@ samtools view -h racon.meryl.iter_1.falconc.sam |samtools sort -@12 -o racon.mer
 ```
 yak count -o 21.yak -k 21 -b 37 <(zcat Col-0.PCRfree.clean.*gz)  <(zcat Col-0.PCRfree.clean.*gz)
 yak count -o 31.yak -k 31 -b 37 <(zcat Col-0.PCRfree.clean.*gz)  <(zcat Col-0.PCRfree.clean.*gz)
-nextPolish2 -t 8 racon.meryl.iter_1.falconc.sorted.bam ../Col-0.bp.p_ctg.gfa.fa k21.yak k31.yak > Col-0.bp.p_ctg.gfa.fa.nextpolish2.fa
+nextPolish2 -t 8 racon.meryl.iter_1.falconc.sorted.bam ../Col-0.bp.p_ctg.gfa.fa 21.yak 31.yak > Col-0.bp.p_ctg.gfa.fa.nextpolish2.fa
 ```
 
 # HiFi only
