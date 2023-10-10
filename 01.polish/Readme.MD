@@ -1,4 +1,7 @@
 # illumina + HiFi   
+
+Using two state-of-the-art software tools, combining both short-read and long-read data, we evaluated the QV of the genome assembly.   
+
 Racon (liftover branch)  
 ```
 git clone https://github.com/isovic/racon.git
