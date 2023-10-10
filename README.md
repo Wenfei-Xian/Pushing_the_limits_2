@@ -5,7 +5,7 @@ Pushing the limits of Pacbio HiFi data
 I want to investigate the upper limit of genome assembly quality achievable using only PacBio HiFi data.   
 I will evaluate from three perspectives: 1) Accuracy, 2) Contiguity, and 3) Completeness.   
 
-##Genome assembly   
+## Genome assembly   
 The genome was assembled using Hifiasm.   
 
 ## Accuracy   
