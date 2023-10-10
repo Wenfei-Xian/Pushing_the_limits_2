@@ -30,3 +30,11 @@ XXXX
 ```
 
 # HiFi only
+
+[Racan](https://github.com/lbcb-sci/racon)
+
+[Pilon](https://github.com/broadinstitute/pilon)
+
+[Nextpolish1](https://github.com/Nextomics/NextPolish)
+
+[Inspector](https://github.com/Maggi-Chen/Inspector)
