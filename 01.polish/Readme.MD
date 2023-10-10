@@ -21,4 +21,9 @@ meryl greater-than 1 reads.meryl output reads.gt1.meryl
 
 bash automated-polishing.sh ${thread} 1 Col-0.bp.p_ctg.gfa.fa Col-0.q20.fastq.gz reads.gt1.meryl racon.meryl
 ```
+Nextpolish2   
+```
+XXXX
+```
+
 # HiFi only
