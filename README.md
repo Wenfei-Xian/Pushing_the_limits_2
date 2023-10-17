@@ -11,7 +11,7 @@ The genome was assembled using Hifiasm.
 ## Accuracy   
 Initially, we combined Illumina data with HiFi data and employed two state-of-the-art polishing tools (NextPolish2 and Racon+Merfin) to achieve the current best QV value.
 
-## Idea
+## Concept
 Initially, DeepVariant was employed to identify potential assembly errors.   
 Why is reassembly needed in the telomere region?   
 When the length of the telomere region in an assembly is long enough, aligners may not fully align the reads to the genome, resulting in soft clipping.   
