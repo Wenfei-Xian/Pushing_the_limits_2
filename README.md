@@ -15,4 +15,4 @@ Initially, we combined Illumina data with HiFi data and employed two state-of-th
 Initially, DeepVariant was employed to identify potential assembly errors.
 Why is reassembly needed in the telomere region
 When the length of the telomere region in an assembly is long enough, aligners may not fully align the reads to the genome, resulting in soft clipping.
-![Alt text]()
+![soft-clip](https://github.com/Wenfei-Xian/Pushing_the_limits_2/blob/main/Soft_clip_in_telomere.png)
