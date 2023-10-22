@@ -14,7 +14,7 @@ p <- ggplot(plot_data, aes(x=threshold, y=count)) +
   geom_point() +
   geom_vline(aes(xintercept=20), linetype="dashed", color="red") +
   geom_text(aes(x=20, y=y_value_at_20, label=y_value_at_20), vjust=-0.5, hjust=-0.2, color="blue") +  # This line adds the label
-  labs(title="Number of Rows by Presence of Orthologous Groups in Species",
+  labs(title="Distribution of Orthologous Groups",
        x="Number of Species in which Each Orthologous Group is Present", 
        y="Number of Orthologous Groups") +
   theme_minimal()
